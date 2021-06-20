@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/diegoyamasaki/calculadorajs#readme",
   "devDependencies": {
+    "bootstrap": "^3.4.1",
     "browserify": "^17.0.0",
     "jasmine": "^3.7.0",
     "karma": "^6.3.4",
