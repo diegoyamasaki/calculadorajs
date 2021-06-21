@@ -3,6 +3,6 @@ sudo: required
 services:
   - xvfb
 addons:
-    firefox: stable
+    firefox: 89.0
 node_js:
   - "node"
