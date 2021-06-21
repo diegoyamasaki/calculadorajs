@@ -1,4 +1,4 @@
-describe('Suite~de testes de subtração', () => {
+describe('Suite de testes de subtração', () => {
     var Calculadora = require("../../src/calculadora")
     it('deve retornar 5 para 8 e 3', () => {
         expect(Calculadora.subtrair(8, 3)).toEqual(5);
